@@ -123,7 +123,7 @@ public class ShoppingCartController {
 		dao.create(donHang, details);
 		KhachHang khachHang = (KhachHang) session.getAttribute("khachHang");
 		String from = khachHang.getEmail();
-		String to = "chuongbui1309@gmail.com";
+		String to = "nguyenphuongtung222@gmail.com";
 		String subject = "Thông tin đặt hàng";
 		String body = "Khách hàng " + khachHang.getHoTen() + "đã đặt hàng";
 		MailInfo mail = new MailInfo(from, to, subject, body);

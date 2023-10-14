@@ -77,7 +77,7 @@
 								<h4 class="footer_block_title">Theo dõi trên Fanpage</h4>
 								<div class="block_content">
 									<div class="fb-page" data-small-header="true"
-										data-href="https://www.facebook.com/chuong.bui.359126"
+										data-href="https://www.facebook.com/profile.php?id=100024017563621"
 										data-tabs="message" data-adapt-container-width="true"
 										data-hide-cover="false" data-show-facepile="true"></div>
 								</div>
@@ -107,7 +107,7 @@
 									<span>Số di động: 0335 685 482</span>
 								</p>
 								<p>
-									<span>Email: chuongbui1309@gmail.com</span>
+									<span>Email: nguyenphuongtung222@gmail.com</span>
 								</p>
 							</div>
 						</div>

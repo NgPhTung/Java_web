@@ -198,7 +198,7 @@ public class AccountController {
 		dao.create(khachHang);
 		model.addAttribute("message", "Ok");
 
-		String from = "chuongbui1309@gmail.com";
+		String from = "nguyenphuongtung222@gmail.com";
 		String to = khachHang.getEmail();
 		String subject = "Xin chào";
 		String url = request.getRequestURL().toString().replace("dangky", "chungthuc/" + khachHang.getMaKhachHang());
@@ -245,7 +245,7 @@ public class AccountController {
 			return "home/quenmatkhau";
 		}
 
-		String from = "chuongbui1309@gmail.com";
+		String from = "nguyenphuongtung222@gmail.com";
 		String to = khachHang.getEmail();
 		String subject = "Lấy lại mật khẩu";
 		String body = "Mật khẩu của bạn là " + khachHang.getMatKhau();
